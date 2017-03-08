@@ -27,11 +27,11 @@
      inkscape:window-width="1600"
      units="cm"
      showgrid="true"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="a3409-0"
      inkscape:document-units="cm"
-     inkscape:cy="210.46421"
-     inkscape:cx="860.71429"
-     inkscape:zoom="1.4"
+     inkscape:cy="467.12278"
+     inkscape:cx="435.59909"
+     inkscape:zoom="0.49497475"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
      borderopacity="1.0"
@@ -76,6 +76,33 @@
        height="353.97491"
        x="354.50858"
        y="354.50867" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="531.37885"
+       y="443.09274"
+       id="text3399-2-0-8-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="531.37885"
+         y="443.09274"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+         id="tspan3692-6">Calendário</tspan><tspan
+         sodipodi:role="line"
+         x="531.37885"
+         y="518.09277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+         id="tspan4105" /><tspan
+         sodipodi:role="line"
+         x="531.37885"
+         y="593.09277"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:60px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+         id="tspan4103" /><tspan
+         sodipodi:role="line"
+         x="531.37885"
+         y="668.09277"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:60px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#000000"
+         id="tspan4101">2017</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
