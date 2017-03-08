@@ -28,10 +28,10 @@
      inkscape:window-width="1600"
      units="cm"
      showgrid="true"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="a3409-0"
      inkscape:document-units="cm"
-     inkscape:cy="867.60707"
-     inkscape:cx="717.85714"
+     inkscape:cy="667.60707"
+     inkscape:cx="375"
      inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
@@ -583,5 +583,36 @@
          x="1052.5996"
          y="277.03305"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff">TRANSFEMININA</tspan></text>
+    <a
+       id="a3409-0"
+       transform="translate(10.632655,187.79529)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3399-4"
+         y="200.5562"
+         x="333.30328"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="200.5562"
+           x="333.30328"
+           id="tspan3401-2"
+           sodipodi:role="line">17</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           id="tspan3407-0"
+           y="222.4312"
+           x="333.30328"
+           sodipodi:role="line">DIA DE LUTA E</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="244.3062"
+           x="333.30328"
+           sodipodi:role="line"
+           id="tspan3656">COMBATE A</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="266.18121"
+           x="333.30328"
+           sodipodi:role="line"
+           id="tspan3658">LGBTQIAP+FOBIA</tspan></text>
+    </a>
   </g>
 </svg>

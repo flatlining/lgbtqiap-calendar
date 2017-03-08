@@ -11,3 +11,4 @@ Font: [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz)
  March     | Mês da Mulher
            | 8: [Dia da Mulher](https://en.wikipedia.org/wiki/International_Women's_Day)
  April     | 2: Dia do Orgulho e Visibilidade Transfeminina
+ May       | 17: [Dia de Luta e Combate a LGBTQIAP+FOBIA](https://en.wikipedia.org/wiki/International_Day_Against_Homophobia,_Transphobia_and_Biphobia)
