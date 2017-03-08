@@ -1,4 +1,4 @@
-# LGBTQIAP+ calendar
+# LGBTQIAP+ Calendar
 LGBTQIAP+ calendar with important days
 
 This open and editable version of the calendar shared by [RExistência Não Binária: Calendário 2017](https://www.facebook.com/RexistenciaNaoBinaria/photos/a.487253414998873.1073741890.375864172804465/487258664998348/).
