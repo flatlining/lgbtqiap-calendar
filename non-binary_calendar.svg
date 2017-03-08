@@ -30,8 +30,8 @@
      showgrid="true"
      inkscape:current-layer="a3409-0-4"
      inkscape:document-units="cm"
-     inkscape:cy="467.60707"
-     inkscape:cx="203.57143"
+     inkscape:cy="96.1785"
+     inkscape:cx="260.71429"
      inkscape:zoom="1.4"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0"
@@ -693,6 +693,33 @@
            x="520.35675"
            sodipodi:role="line"
            id="tspan3758">NÃO BINÁRIA</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text3399-4-6-0"
+         y="480.94742"
+         x="343.19138"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="480.94742"
+           x="343.19138"
+           id="tspan3401-2-7-9"
+           sodipodi:role="line">29</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="502.82242"
+           x="343.19138"
+           sodipodi:role="line"
+           id="tspan3758-2">DIA NACIONAL</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="524.69739"
+           x="343.19138"
+           sodipodi:role="line"
+           id="tspan3791">DA VISIBILIDADE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="546.57245"
+           x="343.19138"
+           sodipodi:role="line"
+           id="tspan3793">LÉSBICA</tspan></text>
     </a>
   </g>
 </svg>
