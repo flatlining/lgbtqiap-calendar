@@ -10,3 +10,4 @@ Font: [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz)
            | 27-03: Semana do Orgulho e Visibilidade do Espectro Fluido
  March     | Mês da Mulher
            | 8: [Dia da Mulher](https://en.wikipedia.org/wiki/International_Women's_Day)
+ April     | 2: Dia do Orgulho e Visibilidade Transfeminina
