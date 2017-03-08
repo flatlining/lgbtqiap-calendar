@@ -28,16 +28,16 @@
      inkscape:window-width="1600"
      units="cm"
      showgrid="true"
-     inkscape:current-layer="layer16"
+     inkscape:current-layer="a3409-0-4"
      inkscape:document-units="cm"
-     inkscape:cy="581.89279"
-     inkscape:cx="803.57143"
+     inkscape:cy="467.60707"
+     inkscape:cx="203.57143"
      inkscape:zoom="1.4"
      inkscape:pageshadow="2"
-     inkscape:pageopacity="1"
+     inkscape:pageopacity="0"
      borderopacity="1.0"
      bordercolor="#666666"
-     pagecolor="#00ffff"
+     pagecolor="#ffffff"
      id="base"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -60,7 +60,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -663,5 +663,36 @@
          x="1052.4225"
          y="631.38214"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff">GAY</tspan></text>
+    <a
+       id="a3409-0-4"
+       transform="translate(-176.41852,439.12207)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text3399-4-6"
+         y="126.40536"
+         x="520.35675"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="126.40536"
+           x="520.35675"
+           id="tspan3401-2-7"
+           sodipodi:role="line">14</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="148.28036"
+           x="520.35675"
+           sodipodi:role="line"
+           id="tspan3658-8">DIA DO ORGULHO</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="170.15536"
+           x="520.35675"
+           sodipodi:role="line"
+           id="tspan3756">E VISIBILIDADE</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.5px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:end;writing-mode:lr-tb;text-anchor:end;fill:#ffffff"
+           y="192.03036"
+           x="520.35675"
+           sodipodi:role="line"
+           id="tspan3758">NÃO BINÁRIA</tspan></text>
+    </a>
   </g>
 </svg>
