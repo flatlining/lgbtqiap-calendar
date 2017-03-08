@@ -5,10 +5,13 @@ This open and editable version of the calendar shared by [RExistência Não Bin�
 
 It was created using [Inkscape](https://inkscape.org/) and the [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz) font.
 
+![LGBTQIAP+ Calendar](./lgbtqiap-calendar.png)
+
 ## Files
 
 ```lgbtqiap-calendar.md```: Calendar reference file, with information for each day (when available)
 ```lgbtqiap-calendar.svg```: Calendar itself
+```lgbtqiap-calendar.png```: Raster image of the calendar
 
 ## Information
 
