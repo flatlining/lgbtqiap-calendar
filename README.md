@@ -7,8 +7,8 @@ It was created using [Inkscape](https://inkscape.org/) and the [Yanone Kaffeesat
 
 ## Files
 
-```non-binary_calendar.md```: Calendar reference file, with information for each day (when available)
-```non-binary_calendar.svg```: Calendar itself
+```lgbtqiap-calendar.md```: Calendar reference file, with information for each day (when available)
+```lgbtqiap-calendar.svg```: Calendar itself
 
 ## Information
 
