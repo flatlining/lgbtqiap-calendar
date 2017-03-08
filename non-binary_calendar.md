@@ -8,3 +8,5 @@ Font: [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz)
  Fevereiro | 15-21: Semana do Orgulho e Visibilidade Arromantica
            | 20: [Dia do Orgulho e Visibilidade Transmasculina](http://transfeminismo.com/20-fev-luta-e-resistencia-de-homens-trans-e-pessoas-transmasculinas/)
            | 27-03: Semana do Orgulho e Visibilidade do Espectro Fluido
+ March     | Mês da Mulher
+           | 8: [Dia da Mulher](https://en.wikipedia.org/wiki/International_Women's_Day)
