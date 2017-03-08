@@ -12,3 +12,5 @@ Font: [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz)
            | 8: [Dia da Mulher](https://en.wikipedia.org/wiki/International_Women's_Day)
  April     | 2: Dia do Orgulho e Visibilidade Transfeminina
  May       | 17: [Dia de Luta e Combate a LGBTQIAP+FOBIA](https://en.wikipedia.org/wiki/International_Day_Against_Homophobia,_Transphobia_and_Biphobia)
+ June      | [Mês do Orgulho LGBTQIAP+](https://en.wikipedia.org/wiki/Gay_pride#LGBT_Pride_Month)
+           | 28: [Dia do Orgulho e Visibilidade Gay](https://en.wikipedia.org/wiki/Stonewall_riots)
