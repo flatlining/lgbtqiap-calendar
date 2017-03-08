@@ -21,3 +21,5 @@ Font: [Yanone Kaffeesatz](https://fonts.google.com/specimen/Yanone+Kaffeesatz)
  November  | 08: [Dia da Solidariedade Intersex](https://en.wikipedia.org/wiki/Intersex_Day_of_Remembrance)
            | 11: [Dia da Memória Trans](https://en.wikipedia.org/wiki/Transgender_Day_of_Remembrance)
            | 26: [Dia do Orgulho e Visibilidade Assexual](http://www.asexuality.org/en/topic/125417-aceday-returns-november-26-2015/)
+ December  | 08: [Dia do Orgulho e Visibilidade Pansexual](https://en.wikipedia.org/wiki/List_of_LGBT_awareness_days)
+           | 19-23: Dia do Orgulho e Visibilidade do Espectro Neutro
